@@ -1,0 +1,35 @@
+{
+  "shop_name": "Shop đồ Nam",
+  "hotline": "0832 717 850",
+  "working_hours": "8:00 - 21:00 (T2-CN)",
+  "price_range": "99.000đ - 459.000đ",
+  "price_link": "https://yourshop.com/bang-gia",
+  "tracking_link": "https://yourshop.com/tra-cuu-don",
+  "return_days": "7",
+  "max_discount_percent": 15,
+  "platforms": {
+    "messenger": {
+      "enabled": true,
+      "page_id": "YOUR_PAGE_ID",
+      "auto_send": true,
+      "comment": "Đặt auto_send = true khi đã test xong"
+    },
+    "zalo": {
+      "enabled": true,
+      "oa_id": "YOUR_OA_ID",
+      "auto_send": false
+    },
+    "tiktok": {
+      "enabled": true,
+      "auto_send": false
+    }
+  },
+  "escalation": {
+    "high_value_threshold": 5000000,
+    "notify_methods": [
+      "log",
+      "email"
+    ],
+    "notify_email": "admin@yourshop.com"
+  }
+}

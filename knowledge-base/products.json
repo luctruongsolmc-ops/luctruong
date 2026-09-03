@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "SP001",
+    "category": "Áo thun",
+    "name": "Áo thun sọc ngang Basic",
+    "price": 129000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Be"
+    ]
+  },
+  {
+    "id": "SP002",
+    "category": "Áo sơ mi",
+    "name": "Sơ mi linen dài tay Premium",
+    "price": 229000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  },
+  {
+    "id": "SP003",
+    "category": "Áo polo",
+    "name": "Polo phối cổ Modern",
+    "price": 219000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đen"
+    ]
+  },
+  {
+    "id": "SP004",
+    "category": "Quần jeans",
+    "name": "Jeans straight fit Premium",
+    "price": 339000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đen"
+    ]
+  },
+  {
+    "id": "SP005",
+    "category": "Quần kaki",
+    "name": "Kaki straight Comfort",
+    "price": 299000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP006",
+    "category": "Quần short",
+    "name": "Short cargo Classic",
+    "price": 239000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xám"
+    ]
+  },
+  {
+    "id": "SP007",
+    "category": "Quần tây",
+    "name": "Quần tây công sở Classic",
+    "price": 349000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP008",
+    "category": "Áo khoác",
+    "name": "Bomber jacket Basic",
+    "price": 399000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP009",
+    "category": "Hoodie & Sweatshirt",
+    "name": "Sweatshirt basic Comfort",
+    "price": 289000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đen"
+    ]
+  },
+  {
+    "id": "SP010",
+    "category": "Đồ thể thao",
+    "name": "Áo gym dry-fit Basic",
+    "price": 219000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP011",
+    "category": "Đồ mặc nhà",
+    "name": "Áo thun mặc nhà Comfort",
+    "price": 99000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP012",
+    "category": "Áo thun",
+    "name": "Áo thun basic cổ tròn Premium",
+    "price": 99000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP013",
+    "category": "Áo sơ mi",
+    "name": "Sơ mi trắng công sở Modern",
+    "price": 199000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Nâu"
+    ]
+  },
+  {
+    "id": "SP014",
+    "category": "Áo polo",
+    "name": "Polo pique Classic",
+    "price": 229000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP015",
+    "category": "Quần jeans",
+    "name": "Jeans slim fit Comfort",
+    "price": 299000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  },
+  {
+    "id": "SP016",
+    "category": "Quần kaki",
+    "name": "Kaki straight Modern",
+    "price": 309000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Be"
+    ]
+  },
+  {
+    "id": "SP017",
+    "category": "Quần short",
+    "name": "Short jean Classic",
+    "price": 179000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP018",
+    "category": "Quần tây",
+    "name": "Quần tây công sở Modern",
+    "price": 349000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP019",
+    "category": "Áo khoác",
+    "name": "Áo khoác thể thao Classic",
+    "price": 409000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Nâu"
+    ]
+  },
+  {
+    "id": "SP020",
+    "category": "Hoodie & Sweatshirt",
+    "name": "Sweatshirt graphic Premium",
+    "price": 319000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xám"
+    ]
+  },
+  {
+    "id": "SP021",
+    "category": "Đồ thể thao",
+    "name": "Áo gym dry-fit Comfort",
+    "price": 219000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh rêu"
+    ]
+  },
+  {
+    "id": "SP022",
+    "category": "Đồ mặc nhà",
+    "name": "Bộ mặc nhà basic Classic",
+    "price": 219000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xám"
+    ]
+  },
+  {
+    "id": "SP023",
+    "category": "Áo thun",
+    "name": "Áo thun graphic Basic",
+    "price": 139000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP024",
+    "category": "Áo sơ mi",
+    "name": "Sơ mi ngắn tay Premium",
+    "price": 199000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP025",
+    "category": "Áo polo",
+    "name": "Polo slim fit Comfort",
+    "price": 219000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  },
+  {
+    "id": "SP026",
+    "category": "Quần jeans",
+    "name": "Jeans wash xanh nhạt Basic",
+    "price": 329000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  },
+  {
+    "id": "SP027",
+    "category": "Quần kaki",
+    "name": "Kaki jogger Basic",
+    "price": 299000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh rêu"
+    ]
+  },
+  {
+    "id": "SP028",
+    "category": "Quần short",
+    "name": "Short linen Basic",
+    "price": 189000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  },
+  {
+    "id": "SP029",
+    "category": "Quần tây",
+    "name": "Quần tây slim fit Classic",
+    "price": 329000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP030",
+    "category": "Áo khoác",
+    "name": "Áo khoác dù Premium",
+    "price": 339000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  },
+  {
+    "id": "SP031",
+    "category": "Hoodie & Sweatshirt",
+    "name": "Sweatshirt basic Modern",
+    "price": 279000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP032",
+    "category": "Đồ thể thao",
+    "name": "Quần jogger thể thao Premium",
+    "price": 269000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP033",
+    "category": "Đồ mặc nhà",
+    "name": "Bộ pijama cotton Basic",
+    "price": 249000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP034",
+    "category": "Áo thun",
+    "name": "Áo thun cotton oversize Premium",
+    "price": 149000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  },
+  {
+    "id": "SP035",
+    "category": "Áo sơ mi",
+    "name": "Sơ mi Oxford Comfort",
+    "price": 229000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh rêu"
+    ]
+  },
+  {
+    "id": "SP036",
+    "category": "Áo polo",
+    "name": "Polo phối cổ Premium",
+    "price": 239000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh rêu"
+    ]
+  },
+  {
+    "id": "SP037",
+    "category": "Quần jeans",
+    "name": "Jeans relaxed fit Comfort",
+    "price": 339000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP038",
+    "category": "Quần kaki",
+    "name": "Kaki straight Basic",
+    "price": 309000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đen"
+    ]
+  },
+  {
+    "id": "SP039",
+    "category": "Quần short",
+    "name": "Short cargo Premium",
+    "price": 209000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP040",
+    "category": "Quần tây",
+    "name": "Quần tây slim fit Basic",
+    "price": 309000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP041",
+    "category": "Áo khoác",
+    "name": "Áo khoác dù Basic",
+    "price": 359000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP042",
+    "category": "Hoodie & Sweatshirt",
+    "name": "Sweatshirt graphic Premium",
+    "price": 339000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xám"
+    ]
+  },
+  {
+    "id": "SP043",
+    "category": "Đồ thể thao",
+    "name": "Áo gym dry-fit Modern",
+    "price": 209000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Nâu"
+    ]
+  },
+  {
+    "id": "SP044",
+    "category": "Đồ mặc nhà",
+    "name": "Quần short mặc nhà Basic",
+    "price": 129000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh rêu"
+    ]
+  },
+  {
+    "id": "SP045",
+    "category": "Áo thun",
+    "name": "Áo thun graphic Modern",
+    "price": 119000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đen"
+    ]
+  },
+  {
+    "id": "SP046",
+    "category": "Áo sơ mi",
+    "name": "Sơ mi trắng công sở Modern",
+    "price": 199000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP047",
+    "category": "Áo polo",
+    "name": "Polo pique Premium",
+    "price": 229000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Nâu"
+    ]
+  },
+  {
+    "id": "SP048",
+    "category": "Quần jeans",
+    "name": "Jeans relaxed fit Premium",
+    "price": 339000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Nâu"
+    ]
+  },
+  {
+    "id": "SP049",
+    "category": "Quần kaki",
+    "name": "Kaki slim fit Modern",
+    "price": 259000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP050",
+    "category": "Quần short",
+    "name": "Short cargo Basic",
+    "price": 229000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP051",
+    "category": "Quần tây",
+    "name": "Quần tây kẻ sọc Modern",
+    "price": 369000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP052",
+    "category": "Áo khoác",
+    "name": "Bomber jacket Premium",
+    "price": 409000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đen"
+    ]
+  },
+  {
+    "id": "SP053",
+    "category": "Hoodie & Sweatshirt",
+    "name": "Sweatshirt basic Modern",
+    "price": 299000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh rêu"
+    ]
+  },
+  {
+    "id": "SP054",
+    "category": "Đồ thể thao",
+    "name": "Quần short thể thao Premium",
+    "price": 179000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Be"
+    ]
+  },
+  {
+    "id": "SP055",
+    "category": "Đồ mặc nhà",
+    "name": "Bộ pijama cotton Comfort",
+    "price": 229000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đen"
+    ]
+  },
+  {
+    "id": "SP056",
+    "category": "Áo thun",
+    "name": "Áo thun basic cổ tròn Basic",
+    "price": 119000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Nâu"
+    ]
+  },
+  {
+    "id": "SP057",
+    "category": "Áo sơ mi",
+    "name": "Sơ mi họa tiết Premium",
+    "price": 199000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  },
+  {
+    "id": "SP058",
+    "category": "Áo polo",
+    "name": "Polo pique Basic",
+    "price": 229000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP059",
+    "category": "Quần jeans",
+    "name": "Jeans relaxed fit Basic",
+    "price": 359000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP060",
+    "category": "Quần kaki",
+    "name": "Kaki slim fit Comfort",
+    "price": 299000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh rêu"
+    ]
+  },
+  {
+    "id": "SP061",
+    "category": "Quần short",
+    "name": "Short cargo Comfort",
+    "price": 229000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Be"
+    ]
+  },
+  {
+    "id": "SP062",
+    "category": "Quần tây",
+    "name": "Quần tây công sở Premium",
+    "price": 349000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh rêu"
+    ]
+  },
+  {
+    "id": "SP063",
+    "category": "Áo khoác",
+    "name": "Hoodie zip Classic",
+    "price": 359000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh dương"
+    ]
+  },
+  {
+    "id": "SP064",
+    "category": "Hoodie & Sweatshirt",
+    "name": "Hoodie basic Modern",
+    "price": 279000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP065",
+    "category": "Đồ thể thao",
+    "name": "Áo gym dry-fit Premium",
+    "price": 199000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Be"
+    ]
+  },
+  {
+    "id": "SP066",
+    "category": "Đồ mặc nhà",
+    "name": "Áo thun mặc nhà Basic",
+    "price": 119000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh dương"
+    ]
+  },
+  {
+    "id": "SP067",
+    "category": "Áo thun",
+    "name": "Áo thun cotton oversize Modern",
+    "price": 169000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Be"
+    ]
+  },
+  {
+    "id": "SP068",
+    "category": "Áo sơ mi",
+    "name": "Sơ mi ngắn tay Comfort",
+    "price": 189000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  },
+  {
+    "id": "SP069",
+    "category": "Áo polo",
+    "name": "Polo cotton basic Premium",
+    "price": 179000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP070",
+    "category": "Quần jeans",
+    "name": "Jeans wash xanh nhạt Premium",
+    "price": 349000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Be"
+    ]
+  },
+  {
+    "id": "SP071",
+    "category": "Quần kaki",
+    "name": "Kaki straight Classic",
+    "price": 309000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Be"
+    ]
+  },
+  {
+    "id": "SP072",
+    "category": "Quần short",
+    "name": "Short linen Classic",
+    "price": 199000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP073",
+    "category": "Quần tây",
+    "name": "Quần tây công sở Basic",
+    "price": 349000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh dương"
+    ]
+  },
+  {
+    "id": "SP074",
+    "category": "Áo khoác",
+    "name": "Hoodie zip Classic",
+    "price": 399000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Nâu"
+    ]
+  },
+  {
+    "id": "SP075",
+    "category": "Hoodie & Sweatshirt",
+    "name": "Sweatshirt graphic Comfort",
+    "price": 299000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP076",
+    "category": "Đồ thể thao",
+    "name": "Áo chạy bộ Comfort",
+    "price": 209000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh dương"
+    ]
+  },
+  {
+    "id": "SP077",
+    "category": "Đồ mặc nhà",
+    "name": "Quần short mặc nhà Modern",
+    "price": 129000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đen"
+    ]
+  },
+  {
+    "id": "SP078",
+    "category": "Áo thun",
+    "name": "Áo thun polo cổ bẻ Basic",
+    "price": 169000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP079",
+    "category": "Áo sơ mi",
+    "name": "Sơ mi ngắn tay Basic",
+    "price": 199000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  },
+  {
+    "id": "SP080",
+    "category": "Áo polo",
+    "name": "Polo phối cổ Premium",
+    "price": 239000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xám"
+    ]
+  },
+  {
+    "id": "SP081",
+    "category": "Quần jeans",
+    "name": "Jeans relaxed fit Basic",
+    "price": 349000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh dương"
+    ]
+  },
+  {
+    "id": "SP082",
+    "category": "Quần kaki",
+    "name": "Kaki straight Classic",
+    "price": 299000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP083",
+    "category": "Quần short",
+    "name": "Short kaki basic Modern",
+    "price": 189000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP084",
+    "category": "Quần tây",
+    "name": "Quần tây công sở Classic",
+    "price": 329000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP085",
+    "category": "Áo khoác",
+    "name": "Hoodie zip Premium",
+    "price": 379000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh dương"
+    ]
+  },
+  {
+    "id": "SP086",
+    "category": "Hoodie & Sweatshirt",
+    "name": "Hoodie basic Classic",
+    "price": 309000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  },
+  {
+    "id": "SP087",
+    "category": "Đồ thể thao",
+    "name": "Áo gym dry-fit Classic",
+    "price": 199000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Trắng"
+    ]
+  },
+  {
+    "id": "SP088",
+    "category": "Đồ mặc nhà",
+    "name": "Quần short mặc nhà Comfort",
+    "price": 109000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đen"
+    ]
+  },
+  {
+    "id": "SP089",
+    "category": "Áo thun",
+    "name": "Áo thun thể thao Modern",
+    "price": 169000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh dương"
+    ]
+  },
+  {
+    "id": "SP090",
+    "category": "Áo sơ mi",
+    "name": "Sơ mi họa tiết Comfort",
+    "price": 239000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh rêu"
+    ]
+  },
+  {
+    "id": "SP091",
+    "category": "Áo polo",
+    "name": "Polo pique Classic",
+    "price": 209000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh rêu"
+    ]
+  },
+  {
+    "id": "SP092",
+    "category": "Quần jeans",
+    "name": "Jeans wash xanh nhạt Comfort",
+    "price": 339000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh dương"
+    ]
+  },
+  {
+    "id": "SP093",
+    "category": "Quần kaki",
+    "name": "Kaki slim fit Classic",
+    "price": 259000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh dương"
+    ]
+  },
+  {
+    "id": "SP094",
+    "category": "Quần short",
+    "name": "Short thể thao Comfort",
+    "price": 159000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xanh rêu"
+    ]
+  },
+  {
+    "id": "SP095",
+    "category": "Quần tây",
+    "name": "Quần tây kẻ sọc Classic",
+    "price": 359000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Xám"
+    ]
+  },
+  {
+    "id": "SP096",
+    "category": "Áo khoác",
+    "name": "Áo khoác kaki Modern",
+    "price": 459000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Be"
+    ]
+  },
+  {
+    "id": "SP097",
+    "category": "Hoodie & Sweatshirt",
+    "name": "Hoodie basic Classic",
+    "price": 309000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Navy"
+    ]
+  },
+  {
+    "id": "SP098",
+    "category": "Đồ thể thao",
+    "name": "Áo gym dry-fit Comfort",
+    "price": 209000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Nâu"
+    ]
+  },
+  {
+    "id": "SP099",
+    "category": "Đồ mặc nhà",
+    "name": "Bộ mặc nhà basic Premium",
+    "price": 199000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Nâu"
+    ]
+  },
+  {
+    "id": "SP100",
+    "category": "Áo thun",
+    "name": "Áo thun sọc ngang Basic",
+    "price": 149000,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      "Đỏ đô"
+    ]
+  }
+]

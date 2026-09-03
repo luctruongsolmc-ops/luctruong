@@ -1,0 +1,4002 @@
+[
+  {
+    "Mã SP":"SP001",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun sọc ngang Basic",
+    "Size":"S",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP001",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun sọc ngang Basic",
+    "Size":"M",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP001",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun sọc ngang Basic",
+    "Size":"L",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP001",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun sọc ngang Basic",
+    "Size":"XL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP001",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun sọc ngang Basic",
+    "Size":"XXL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP002",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi linen dài tay Premium",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP002",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi linen dài tay Premium",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP002",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi linen dài tay Premium",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP002",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi linen dài tay Premium",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP002",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi linen dài tay Premium",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP003",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Modern",
+    "Size":"S",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP003",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Modern",
+    "Size":"M",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP003",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Modern",
+    "Size":"L",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP003",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Modern",
+    "Size":"XL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP003",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Modern",
+    "Size":"XXL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP004",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans straight fit Premium",
+    "Size":"S",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP004",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans straight fit Premium",
+    "Size":"M",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP004",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans straight fit Premium",
+    "Size":"L",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP004",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans straight fit Premium",
+    "Size":"XL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP004",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans straight fit Premium",
+    "Size":"XXL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP005",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Comfort",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP005",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Comfort",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP005",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Comfort",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP005",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Comfort",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP005",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP006",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Classic",
+    "Size":"S",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP006",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Classic",
+    "Size":"M",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP006",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Classic",
+    "Size":"L",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP006",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Classic",
+    "Size":"XL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP006",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Classic",
+    "Size":"XXL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP007",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Classic",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP007",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Classic",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP007",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Classic",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP007",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Classic",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP007",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Classic",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP008",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Bomber jacket Basic",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":399000
+  },
+  {
+    "Mã SP":"SP008",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Bomber jacket Basic",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":399000
+  },
+  {
+    "Mã SP":"SP008",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Bomber jacket Basic",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":399000
+  },
+  {
+    "Mã SP":"SP008",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Bomber jacket Basic",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":399000
+  },
+  {
+    "Mã SP":"SP008",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Bomber jacket Basic",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":399000
+  },
+  {
+    "Mã SP":"SP009",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Comfort",
+    "Size":"S",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":289000
+  },
+  {
+    "Mã SP":"SP009",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Comfort",
+    "Size":"M",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":289000
+  },
+  {
+    "Mã SP":"SP009",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Comfort",
+    "Size":"L",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":289000
+  },
+  {
+    "Mã SP":"SP009",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Comfort",
+    "Size":"XL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":289000
+  },
+  {
+    "Mã SP":"SP009",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":289000
+  },
+  {
+    "Mã SP":"SP010",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Basic",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP010",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Basic",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP010",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Basic",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP010",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Basic",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP010",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Basic",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP011",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Áo thun mặc nhà Comfort",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":99000
+  },
+  {
+    "Mã SP":"SP011",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Áo thun mặc nhà Comfort",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":99000
+  },
+  {
+    "Mã SP":"SP011",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Áo thun mặc nhà Comfort",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":99000
+  },
+  {
+    "Mã SP":"SP011",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Áo thun mặc nhà Comfort",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":99000
+  },
+  {
+    "Mã SP":"SP011",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Áo thun mặc nhà Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":99000
+  },
+  {
+    "Mã SP":"SP012",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun basic cổ tròn Premium",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":99000
+  },
+  {
+    "Mã SP":"SP012",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun basic cổ tròn Premium",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":99000
+  },
+  {
+    "Mã SP":"SP012",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun basic cổ tròn Premium",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":99000
+  },
+  {
+    "Mã SP":"SP012",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun basic cổ tròn Premium",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":99000
+  },
+  {
+    "Mã SP":"SP012",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun basic cổ tròn Premium",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":99000
+  },
+  {
+    "Mã SP":"SP013",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi trắng công sở Modern",
+    "Size":"S",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP013",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi trắng công sở Modern",
+    "Size":"M",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP013",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi trắng công sở Modern",
+    "Size":"L",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP013",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi trắng công sở Modern",
+    "Size":"XL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP013",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi trắng công sở Modern",
+    "Size":"XXL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP014",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Classic",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP014",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Classic",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP014",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Classic",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP014",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Classic",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP014",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Classic",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP015",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans slim fit Comfort",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP015",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans slim fit Comfort",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP015",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans slim fit Comfort",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP015",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans slim fit Comfort",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP015",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans slim fit Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP016",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Modern",
+    "Size":"S",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP016",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Modern",
+    "Size":"M",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP016",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Modern",
+    "Size":"L",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP016",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Modern",
+    "Size":"XL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP016",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Modern",
+    "Size":"XXL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP017",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short jean Classic",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP017",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short jean Classic",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP017",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short jean Classic",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP017",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short jean Classic",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP017",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short jean Classic",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP018",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Modern",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP018",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Modern",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP018",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Modern",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP018",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Modern",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP018",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Modern",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP019",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác thể thao Classic",
+    "Size":"S",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":409000
+  },
+  {
+    "Mã SP":"SP019",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác thể thao Classic",
+    "Size":"M",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":409000
+  },
+  {
+    "Mã SP":"SP019",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác thể thao Classic",
+    "Size":"L",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":409000
+  },
+  {
+    "Mã SP":"SP019",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác thể thao Classic",
+    "Size":"XL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":409000
+  },
+  {
+    "Mã SP":"SP019",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác thể thao Classic",
+    "Size":"XXL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":409000
+  },
+  {
+    "Mã SP":"SP020",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Premium",
+    "Size":"S",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":319000
+  },
+  {
+    "Mã SP":"SP020",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Premium",
+    "Size":"M",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":319000
+  },
+  {
+    "Mã SP":"SP020",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Premium",
+    "Size":"L",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":319000
+  },
+  {
+    "Mã SP":"SP020",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Premium",
+    "Size":"XL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":319000
+  },
+  {
+    "Mã SP":"SP020",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Premium",
+    "Size":"XXL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":319000
+  },
+  {
+    "Mã SP":"SP021",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Comfort",
+    "Size":"S",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP021",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Comfort",
+    "Size":"M",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP021",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Comfort",
+    "Size":"L",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP021",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Comfort",
+    "Size":"XL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP021",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP022",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ mặc nhà basic Classic",
+    "Size":"S",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP022",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ mặc nhà basic Classic",
+    "Size":"M",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP022",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ mặc nhà basic Classic",
+    "Size":"L",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP022",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ mặc nhà basic Classic",
+    "Size":"XL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP022",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ mặc nhà basic Classic",
+    "Size":"XXL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP023",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun graphic Basic",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":139000
+  },
+  {
+    "Mã SP":"SP023",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun graphic Basic",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":139000
+  },
+  {
+    "Mã SP":"SP023",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun graphic Basic",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":139000
+  },
+  {
+    "Mã SP":"SP023",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun graphic Basic",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":139000
+  },
+  {
+    "Mã SP":"SP023",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun graphic Basic",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":139000
+  },
+  {
+    "Mã SP":"SP024",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Premium",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP024",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Premium",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP024",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Premium",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP024",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Premium",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP024",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Premium",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP025",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo slim fit Comfort",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP025",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo slim fit Comfort",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP025",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo slim fit Comfort",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP025",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo slim fit Comfort",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP025",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo slim fit Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":219000
+  },
+  {
+    "Mã SP":"SP026",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Basic",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP026",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Basic",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP026",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Basic",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP026",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Basic",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP026",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Basic",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP027",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki jogger Basic",
+    "Size":"S",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP027",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki jogger Basic",
+    "Size":"M",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP027",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki jogger Basic",
+    "Size":"L",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP027",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki jogger Basic",
+    "Size":"XL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP027",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki jogger Basic",
+    "Size":"XXL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP028",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short linen Basic",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP028",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short linen Basic",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP028",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short linen Basic",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP028",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short linen Basic",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP028",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short linen Basic",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP029",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây slim fit Classic",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP029",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây slim fit Classic",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP029",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây slim fit Classic",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP029",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây slim fit Classic",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP029",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây slim fit Classic",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP030",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác dù Premium",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP030",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác dù Premium",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP030",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác dù Premium",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP030",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác dù Premium",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP030",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác dù Premium",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP031",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Modern",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":279000
+  },
+  {
+    "Mã SP":"SP031",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Modern",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":279000
+  },
+  {
+    "Mã SP":"SP031",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Modern",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":279000
+  },
+  {
+    "Mã SP":"SP031",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Modern",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":279000
+  },
+  {
+    "Mã SP":"SP031",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Modern",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":279000
+  },
+  {
+    "Mã SP":"SP032",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Quần jogger thể thao Premium",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":269000
+  },
+  {
+    "Mã SP":"SP032",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Quần jogger thể thao Premium",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":269000
+  },
+  {
+    "Mã SP":"SP032",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Quần jogger thể thao Premium",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":269000
+  },
+  {
+    "Mã SP":"SP032",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Quần jogger thể thao Premium",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":269000
+  },
+  {
+    "Mã SP":"SP032",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Quần jogger thể thao Premium",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":269000
+  },
+  {
+    "Mã SP":"SP033",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ pijama cotton Basic",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":249000
+  },
+  {
+    "Mã SP":"SP033",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ pijama cotton Basic",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":249000
+  },
+  {
+    "Mã SP":"SP033",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ pijama cotton Basic",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":249000
+  },
+  {
+    "Mã SP":"SP033",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ pijama cotton Basic",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":249000
+  },
+  {
+    "Mã SP":"SP033",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ pijama cotton Basic",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":249000
+  },
+  {
+    "Mã SP":"SP034",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun cotton oversize Premium",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":149000
+  },
+  {
+    "Mã SP":"SP034",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun cotton oversize Premium",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":149000
+  },
+  {
+    "Mã SP":"SP034",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun cotton oversize Premium",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":149000
+  },
+  {
+    "Mã SP":"SP034",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun cotton oversize Premium",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":149000
+  },
+  {
+    "Mã SP":"SP034",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun cotton oversize Premium",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":149000
+  },
+  {
+    "Mã SP":"SP035",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi Oxford Comfort",
+    "Size":"S",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP035",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi Oxford Comfort",
+    "Size":"M",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP035",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi Oxford Comfort",
+    "Size":"L",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP035",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi Oxford Comfort",
+    "Size":"XL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP035",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi Oxford Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP036",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Premium",
+    "Size":"S",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP036",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Premium",
+    "Size":"M",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP036",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Premium",
+    "Size":"L",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP036",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Premium",
+    "Size":"XL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP036",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Premium",
+    "Size":"XXL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP037",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Comfort",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP037",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Comfort",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP037",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Comfort",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP037",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Comfort",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP037",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP038",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Basic",
+    "Size":"S",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP038",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Basic",
+    "Size":"M",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP038",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Basic",
+    "Size":"L",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP038",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Basic",
+    "Size":"XL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP038",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Basic",
+    "Size":"XXL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP039",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Premium",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP039",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Premium",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP039",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Premium",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP039",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Premium",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP039",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Premium",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP040",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây slim fit Basic",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP040",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây slim fit Basic",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP040",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây slim fit Basic",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP040",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây slim fit Basic",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP040",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây slim fit Basic",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP041",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác dù Basic",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP041",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác dù Basic",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP041",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác dù Basic",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP041",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác dù Basic",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP041",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác dù Basic",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP042",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Premium",
+    "Size":"S",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP042",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Premium",
+    "Size":"M",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP042",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Premium",
+    "Size":"L",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP042",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Premium",
+    "Size":"XL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP042",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Premium",
+    "Size":"XXL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP043",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Modern",
+    "Size":"S",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP043",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Modern",
+    "Size":"M",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP043",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Modern",
+    "Size":"L",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP043",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Modern",
+    "Size":"XL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP043",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Modern",
+    "Size":"XXL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP044",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Basic",
+    "Size":"S",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP044",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Basic",
+    "Size":"M",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP044",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Basic",
+    "Size":"L",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP044",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Basic",
+    "Size":"XL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP044",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Basic",
+    "Size":"XXL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP045",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun graphic Modern",
+    "Size":"S",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP045",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun graphic Modern",
+    "Size":"M",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP045",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun graphic Modern",
+    "Size":"L",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP045",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun graphic Modern",
+    "Size":"XL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP045",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun graphic Modern",
+    "Size":"XXL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP046",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi trắng công sở Modern",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP046",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi trắng công sở Modern",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP046",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi trắng công sở Modern",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP046",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi trắng công sở Modern",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP046",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi trắng công sở Modern",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP047",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Premium",
+    "Size":"S",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP047",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Premium",
+    "Size":"M",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP047",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Premium",
+    "Size":"L",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP047",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Premium",
+    "Size":"XL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP047",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Premium",
+    "Size":"XXL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP048",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Premium",
+    "Size":"S",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP048",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Premium",
+    "Size":"M",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP048",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Premium",
+    "Size":"L",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP048",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Premium",
+    "Size":"XL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP048",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Premium",
+    "Size":"XXL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP049",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Modern",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":259000
+  },
+  {
+    "Mã SP":"SP049",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Modern",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":259000
+  },
+  {
+    "Mã SP":"SP049",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Modern",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":259000
+  },
+  {
+    "Mã SP":"SP049",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Modern",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":259000
+  },
+  {
+    "Mã SP":"SP049",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Modern",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":259000
+  },
+  {
+    "Mã SP":"SP050",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Basic",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP050",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Basic",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP050",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Basic",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP050",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Basic",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP050",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Basic",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP051",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây kẻ sọc Modern",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":369000
+  },
+  {
+    "Mã SP":"SP051",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây kẻ sọc Modern",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":369000
+  },
+  {
+    "Mã SP":"SP051",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây kẻ sọc Modern",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":369000
+  },
+  {
+    "Mã SP":"SP051",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây kẻ sọc Modern",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":369000
+  },
+  {
+    "Mã SP":"SP051",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây kẻ sọc Modern",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":369000
+  },
+  {
+    "Mã SP":"SP052",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Bomber jacket Premium",
+    "Size":"S",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":409000
+  },
+  {
+    "Mã SP":"SP052",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Bomber jacket Premium",
+    "Size":"M",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":409000
+  },
+  {
+    "Mã SP":"SP052",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Bomber jacket Premium",
+    "Size":"L",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":409000
+  },
+  {
+    "Mã SP":"SP052",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Bomber jacket Premium",
+    "Size":"XL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":409000
+  },
+  {
+    "Mã SP":"SP052",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Bomber jacket Premium",
+    "Size":"XXL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":409000
+  },
+  {
+    "Mã SP":"SP053",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Modern",
+    "Size":"S",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP053",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Modern",
+    "Size":"M",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP053",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Modern",
+    "Size":"L",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP053",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Modern",
+    "Size":"XL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP053",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt basic Modern",
+    "Size":"XXL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP054",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Quần short thể thao Premium",
+    "Size":"S",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP054",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Quần short thể thao Premium",
+    "Size":"M",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP054",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Quần short thể thao Premium",
+    "Size":"L",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP054",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Quần short thể thao Premium",
+    "Size":"XL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP054",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Quần short thể thao Premium",
+    "Size":"XXL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP055",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ pijama cotton Comfort",
+    "Size":"S",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP055",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ pijama cotton Comfort",
+    "Size":"M",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP055",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ pijama cotton Comfort",
+    "Size":"L",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP055",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ pijama cotton Comfort",
+    "Size":"XL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP055",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ pijama cotton Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP056",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun basic cổ tròn Basic",
+    "Size":"S",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP056",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun basic cổ tròn Basic",
+    "Size":"M",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP056",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun basic cổ tròn Basic",
+    "Size":"L",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP056",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun basic cổ tròn Basic",
+    "Size":"XL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP056",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun basic cổ tròn Basic",
+    "Size":"XXL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP057",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi họa tiết Premium",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP057",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi họa tiết Premium",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP057",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi họa tiết Premium",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP057",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi họa tiết Premium",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP057",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi họa tiết Premium",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP058",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Basic",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP058",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Basic",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP058",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Basic",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP058",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Basic",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP058",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Basic",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP059",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Basic",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP059",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Basic",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP059",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Basic",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP059",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Basic",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP059",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Basic",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP060",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Comfort",
+    "Size":"S",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP060",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Comfort",
+    "Size":"M",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP060",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Comfort",
+    "Size":"L",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP060",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Comfort",
+    "Size":"XL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP060",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP061",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Comfort",
+    "Size":"S",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP061",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Comfort",
+    "Size":"M",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP061",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Comfort",
+    "Size":"L",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP061",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Comfort",
+    "Size":"XL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP061",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short cargo Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":229000
+  },
+  {
+    "Mã SP":"SP062",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Premium",
+    "Size":"S",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP062",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Premium",
+    "Size":"M",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP062",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Premium",
+    "Size":"L",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP062",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Premium",
+    "Size":"XL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP062",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Premium",
+    "Size":"XXL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP063",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Classic",
+    "Size":"S",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP063",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Classic",
+    "Size":"M",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP063",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Classic",
+    "Size":"L",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP063",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Classic",
+    "Size":"XL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP063",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Classic",
+    "Size":"XXL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP064",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Modern",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":279000
+  },
+  {
+    "Mã SP":"SP064",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Modern",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":279000
+  },
+  {
+    "Mã SP":"SP064",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Modern",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":279000
+  },
+  {
+    "Mã SP":"SP064",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Modern",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":279000
+  },
+  {
+    "Mã SP":"SP064",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Modern",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":279000
+  },
+  {
+    "Mã SP":"SP065",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Premium",
+    "Size":"S",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP065",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Premium",
+    "Size":"M",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP065",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Premium",
+    "Size":"L",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP065",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Premium",
+    "Size":"XL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP065",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Premium",
+    "Size":"XXL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP066",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Áo thun mặc nhà Basic",
+    "Size":"S",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP066",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Áo thun mặc nhà Basic",
+    "Size":"M",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP066",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Áo thun mặc nhà Basic",
+    "Size":"L",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP066",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Áo thun mặc nhà Basic",
+    "Size":"XL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP066",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Áo thun mặc nhà Basic",
+    "Size":"XXL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":119000
+  },
+  {
+    "Mã SP":"SP067",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun cotton oversize Modern",
+    "Size":"S",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP067",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun cotton oversize Modern",
+    "Size":"M",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP067",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun cotton oversize Modern",
+    "Size":"L",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP067",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun cotton oversize Modern",
+    "Size":"XL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP067",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun cotton oversize Modern",
+    "Size":"XXL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP068",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Comfort",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP068",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Comfort",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP068",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Comfort",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP068",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Comfort",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP068",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP069",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo cotton basic Premium",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP069",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo cotton basic Premium",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP069",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo cotton basic Premium",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP069",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo cotton basic Premium",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP069",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo cotton basic Premium",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":179000
+  },
+  {
+    "Mã SP":"SP070",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Premium",
+    "Size":"S",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP070",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Premium",
+    "Size":"M",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP070",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Premium",
+    "Size":"L",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP070",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Premium",
+    "Size":"XL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP070",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Premium",
+    "Size":"XXL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP071",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Classic",
+    "Size":"S",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP071",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Classic",
+    "Size":"M",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP071",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Classic",
+    "Size":"L",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP071",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Classic",
+    "Size":"XL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP071",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Classic",
+    "Size":"XXL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP072",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short linen Classic",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP072",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short linen Classic",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP072",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short linen Classic",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP072",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short linen Classic",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP072",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short linen Classic",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP073",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Basic",
+    "Size":"S",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP073",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Basic",
+    "Size":"M",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP073",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Basic",
+    "Size":"L",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP073",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Basic",
+    "Size":"XL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP073",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Basic",
+    "Size":"XXL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP074",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Classic",
+    "Size":"S",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":399000
+  },
+  {
+    "Mã SP":"SP074",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Classic",
+    "Size":"M",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":399000
+  },
+  {
+    "Mã SP":"SP074",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Classic",
+    "Size":"L",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":399000
+  },
+  {
+    "Mã SP":"SP074",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Classic",
+    "Size":"XL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":399000
+  },
+  {
+    "Mã SP":"SP074",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Classic",
+    "Size":"XXL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":399000
+  },
+  {
+    "Mã SP":"SP075",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Comfort",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP075",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Comfort",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP075",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Comfort",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP075",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Comfort",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP075",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Sweatshirt graphic Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP076",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo chạy bộ Comfort",
+    "Size":"S",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP076",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo chạy bộ Comfort",
+    "Size":"M",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP076",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo chạy bộ Comfort",
+    "Size":"L",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP076",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo chạy bộ Comfort",
+    "Size":"XL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP076",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo chạy bộ Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP077",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Modern",
+    "Size":"S",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP077",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Modern",
+    "Size":"M",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP077",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Modern",
+    "Size":"L",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP077",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Modern",
+    "Size":"XL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP077",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Modern",
+    "Size":"XXL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":129000
+  },
+  {
+    "Mã SP":"SP078",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun polo cổ bẻ Basic",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP078",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun polo cổ bẻ Basic",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP078",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun polo cổ bẻ Basic",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP078",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun polo cổ bẻ Basic",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP078",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun polo cổ bẻ Basic",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP079",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Basic",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP079",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Basic",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP079",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Basic",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP079",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Basic",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP079",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi ngắn tay Basic",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP080",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Premium",
+    "Size":"S",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP080",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Premium",
+    "Size":"M",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP080",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Premium",
+    "Size":"L",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP080",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Premium",
+    "Size":"XL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP080",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo phối cổ Premium",
+    "Size":"XXL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP081",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Basic",
+    "Size":"S",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP081",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Basic",
+    "Size":"M",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP081",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Basic",
+    "Size":"L",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP081",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Basic",
+    "Size":"XL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP081",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans relaxed fit Basic",
+    "Size":"XXL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":349000
+  },
+  {
+    "Mã SP":"SP082",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Classic",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP082",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Classic",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP082",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Classic",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP082",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Classic",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP082",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki straight Classic",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":299000
+  },
+  {
+    "Mã SP":"SP083",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short kaki basic Modern",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP083",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short kaki basic Modern",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP083",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short kaki basic Modern",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP083",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short kaki basic Modern",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP083",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short kaki basic Modern",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":189000
+  },
+  {
+    "Mã SP":"SP084",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Classic",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP084",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Classic",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP084",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Classic",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP084",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Classic",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP084",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây công sở Classic",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":329000
+  },
+  {
+    "Mã SP":"SP085",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Premium",
+    "Size":"S",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":379000
+  },
+  {
+    "Mã SP":"SP085",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Premium",
+    "Size":"M",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":379000
+  },
+  {
+    "Mã SP":"SP085",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Premium",
+    "Size":"L",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":379000
+  },
+  {
+    "Mã SP":"SP085",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Premium",
+    "Size":"XL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":379000
+  },
+  {
+    "Mã SP":"SP085",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Hoodie zip Premium",
+    "Size":"XXL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":379000
+  },
+  {
+    "Mã SP":"SP086",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Classic",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP086",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Classic",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP086",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Classic",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP086",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Classic",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP086",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Classic",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP087",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Classic",
+    "Size":"S",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP087",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Classic",
+    "Size":"M",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP087",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Classic",
+    "Size":"L",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP087",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Classic",
+    "Size":"XL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP087",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Classic",
+    "Size":"XXL",
+    "Màu sắc":"Trắng",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP088",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Comfort",
+    "Size":"S",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":109000
+  },
+  {
+    "Mã SP":"SP088",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Comfort",
+    "Size":"M",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":109000
+  },
+  {
+    "Mã SP":"SP088",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Comfort",
+    "Size":"L",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":109000
+  },
+  {
+    "Mã SP":"SP088",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Comfort",
+    "Size":"XL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":109000
+  },
+  {
+    "Mã SP":"SP088",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Quần short mặc nhà Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Đen",
+    "Đơn giá (VNĐ)":109000
+  },
+  {
+    "Mã SP":"SP089",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun thể thao Modern",
+    "Size":"S",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP089",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun thể thao Modern",
+    "Size":"M",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP089",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun thể thao Modern",
+    "Size":"L",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP089",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun thể thao Modern",
+    "Size":"XL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP089",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun thể thao Modern",
+    "Size":"XXL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":169000
+  },
+  {
+    "Mã SP":"SP090",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi họa tiết Comfort",
+    "Size":"S",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP090",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi họa tiết Comfort",
+    "Size":"M",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP090",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi họa tiết Comfort",
+    "Size":"L",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP090",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi họa tiết Comfort",
+    "Size":"XL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP090",
+    "Danh mục":"Áo sơ mi",
+    "Tên sản phẩm":"Sơ mi họa tiết Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":239000
+  },
+  {
+    "Mã SP":"SP091",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Classic",
+    "Size":"S",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP091",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Classic",
+    "Size":"M",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP091",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Classic",
+    "Size":"L",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP091",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Classic",
+    "Size":"XL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP091",
+    "Danh mục":"Áo polo",
+    "Tên sản phẩm":"Polo pique Classic",
+    "Size":"XXL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP092",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Comfort",
+    "Size":"S",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP092",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Comfort",
+    "Size":"M",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP092",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Comfort",
+    "Size":"L",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP092",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Comfort",
+    "Size":"XL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP092",
+    "Danh mục":"Quần jeans",
+    "Tên sản phẩm":"Jeans wash xanh nhạt Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":339000
+  },
+  {
+    "Mã SP":"SP093",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Classic",
+    "Size":"S",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":259000
+  },
+  {
+    "Mã SP":"SP093",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Classic",
+    "Size":"M",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":259000
+  },
+  {
+    "Mã SP":"SP093",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Classic",
+    "Size":"L",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":259000
+  },
+  {
+    "Mã SP":"SP093",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Classic",
+    "Size":"XL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":259000
+  },
+  {
+    "Mã SP":"SP093",
+    "Danh mục":"Quần kaki",
+    "Tên sản phẩm":"Kaki slim fit Classic",
+    "Size":"XXL",
+    "Màu sắc":"Xanh dương",
+    "Đơn giá (VNĐ)":259000
+  },
+  {
+    "Mã SP":"SP094",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short thể thao Comfort",
+    "Size":"S",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":159000
+  },
+  {
+    "Mã SP":"SP094",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short thể thao Comfort",
+    "Size":"M",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":159000
+  },
+  {
+    "Mã SP":"SP094",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short thể thao Comfort",
+    "Size":"L",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":159000
+  },
+  {
+    "Mã SP":"SP094",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short thể thao Comfort",
+    "Size":"XL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":159000
+  },
+  {
+    "Mã SP":"SP094",
+    "Danh mục":"Quần short",
+    "Tên sản phẩm":"Short thể thao Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Xanh rêu",
+    "Đơn giá (VNĐ)":159000
+  },
+  {
+    "Mã SP":"SP095",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây kẻ sọc Classic",
+    "Size":"S",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP095",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây kẻ sọc Classic",
+    "Size":"M",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP095",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây kẻ sọc Classic",
+    "Size":"L",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP095",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây kẻ sọc Classic",
+    "Size":"XL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP095",
+    "Danh mục":"Quần tây",
+    "Tên sản phẩm":"Quần tây kẻ sọc Classic",
+    "Size":"XXL",
+    "Màu sắc":"Xám",
+    "Đơn giá (VNĐ)":359000
+  },
+  {
+    "Mã SP":"SP096",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác kaki Modern",
+    "Size":"S",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":459000
+  },
+  {
+    "Mã SP":"SP096",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác kaki Modern",
+    "Size":"M",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":459000
+  },
+  {
+    "Mã SP":"SP096",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác kaki Modern",
+    "Size":"L",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":459000
+  },
+  {
+    "Mã SP":"SP096",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác kaki Modern",
+    "Size":"XL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":459000
+  },
+  {
+    "Mã SP":"SP096",
+    "Danh mục":"Áo khoác",
+    "Tên sản phẩm":"Áo khoác kaki Modern",
+    "Size":"XXL",
+    "Màu sắc":"Be",
+    "Đơn giá (VNĐ)":459000
+  },
+  {
+    "Mã SP":"SP097",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Classic",
+    "Size":"S",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP097",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Classic",
+    "Size":"M",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP097",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Classic",
+    "Size":"L",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP097",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Classic",
+    "Size":"XL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP097",
+    "Danh mục":"Hoodie & Sweatshirt",
+    "Tên sản phẩm":"Hoodie basic Classic",
+    "Size":"XXL",
+    "Màu sắc":"Navy",
+    "Đơn giá (VNĐ)":309000
+  },
+  {
+    "Mã SP":"SP098",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Comfort",
+    "Size":"S",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP098",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Comfort",
+    "Size":"M",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP098",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Comfort",
+    "Size":"L",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP098",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Comfort",
+    "Size":"XL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP098",
+    "Danh mục":"Đồ thể thao",
+    "Tên sản phẩm":"Áo gym dry-fit Comfort",
+    "Size":"XXL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":209000
+  },
+  {
+    "Mã SP":"SP099",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ mặc nhà basic Premium",
+    "Size":"S",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP099",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ mặc nhà basic Premium",
+    "Size":"M",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP099",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ mặc nhà basic Premium",
+    "Size":"L",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP099",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ mặc nhà basic Premium",
+    "Size":"XL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP099",
+    "Danh mục":"Đồ mặc nhà",
+    "Tên sản phẩm":"Bộ mặc nhà basic Premium",
+    "Size":"XXL",
+    "Màu sắc":"Nâu",
+    "Đơn giá (VNĐ)":199000
+  },
+  {
+    "Mã SP":"SP100",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun sọc ngang Basic",
+    "Size":"S",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":149000
+  },
+  {
+    "Mã SP":"SP100",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun sọc ngang Basic",
+    "Size":"M",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":149000
+  },
+  {
+    "Mã SP":"SP100",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun sọc ngang Basic",
+    "Size":"L",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":149000
+  },
+  {
+    "Mã SP":"SP100",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun sọc ngang Basic",
+    "Size":"XL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":149000
+  },
+  {
+    "Mã SP":"SP100",
+    "Danh mục":"Áo thun",
+    "Tên sản phẩm":"Áo thun sọc ngang Basic",
+    "Size":"XXL",
+    "Màu sắc":"Đỏ đô",
+    "Đơn giá (VNĐ)":149000
+  }
+]
