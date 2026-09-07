@@ -45,6 +45,26 @@ classifier = IntentClassifier()
 generator = ReplyGenerator()
 session_manager = SessionManager()
 
+# ─── AUTO KEEP-ALIVE (Chống ngủ đông trên Cloud Render) ────────────────────────
+import threading
+import time
+import requests
+
+def _start_keep_alive():
+    """Tự động gửi heartbeat mỗi 8 phút để Render luôn thức 24/7/365"""
+    time.sleep(15)
+    render_url = os.getenv('RENDER_EXTERNAL_URL', 'https://shop-do-nam-dep.onrender.com')
+    while True:
+        try:
+            time.sleep(480)  # 8 phút
+            res = requests.get(f"{render_url}/health", timeout=10)
+            logger.info(f"💓 [Keep-Alive] Ping {render_url}/health: {res.status_code}")
+        except Exception as e:
+            logger.warning(f"Keep-alive warning: {e}")
+
+_keep_alive_thread = threading.Thread(target=_start_keep_alive, daemon=True)
+_keep_alive_thread.start()
+
 
 @app.route('/health', methods=['GET'])
 @app.route('/', methods=['GET'])
