@@ -134,6 +134,11 @@ def update_facebook_webhook():
     if not tunnel_url:
         return
     
+    # Kiểm tra xem hệ thống có đang sử dụng Cloud Render vĩnh viễn không
+    if os.getenv("USE_LOCAL_WEBHOOK", "false").lower() != "true":
+        log("Hệ thống đang chạy Cloud 24/7 trên Render (https://shop-do-nam-dep.onrender.com). Bỏ qua ghi đè Webhook!", "INFO")
+        return
+
     webhook_url = f"{tunnel_url}/webhook/messenger"
     log(f"Dang cap nhat Facebook Webhook -> {webhook_url}", "STEP")
     
